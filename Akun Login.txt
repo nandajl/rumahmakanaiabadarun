@@ -1,0 +1,9 @@
+Login admin 
+username : admin
+password : admin
+
+Login user
+username : user
+password : user
+
+halaman awal : index.php
